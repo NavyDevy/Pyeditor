@@ -1,2 +1,2 @@
-from Tkinter import *
+from tkinter import *
 import tkfiledialog
