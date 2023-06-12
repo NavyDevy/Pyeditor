@@ -5,9 +5,9 @@ import customtkinter as ctk #CTK
 
 
 # ----- FUNC -----
-#def savefile (ev):
-#  fn = tkfiledialog.SaveAs (root, #filetypes = [("*")]).show()
-#  open (fn "wt").write(textbox.get) #"end","1.0"))
+def savefile (ev):
+  fn = tkfiledialog.SaveAs (root, #filetypes = [("*")]).show()
+  open (fn "wt").write(textbox.get) #"end","1.0"))
 #def quit (ev):
 #  global root
 #  root.destroy()
@@ -52,7 +52,7 @@ root_tk = tkinter.Tk()
 root_tk.geometry = (600x500)
 root_tk.title ("Pyeditor alpha")
 #--button--
-savidk = customtkinter.CtkButton(master=root_tk,corner_radius=10 command=button_function)
+savidk = customtkinter.CtkButton(master=root_tk,corner_radius=10 command=savefile)
 
 
 
