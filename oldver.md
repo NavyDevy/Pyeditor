@@ -1,3 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+#  WARNING!
+#  DO NOT READ THAT HELL
+#  I DONT WANT YOUR EYES BLEED
+
+
+
+
+
+
+
+
+
+
+
+
 #ALPHA 1.0
 
 # ----- FUNC ----- 
